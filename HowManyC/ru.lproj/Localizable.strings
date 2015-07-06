@@ -1,0 +1,20 @@
+/* 
+  Localized.strings
+  HowManyC
+
+  Created by Max on 06/07/15.
+  Copyright (c) 2015 Max. All rights reserved.
+*/
+"Your rank is %li" = "Вы на %li месте";
+
+"%li is preciesely %li" = "%li это точно %li";
+"%li is almost %li" = "%li ну почти %li";
+"%li is too far from %li" = "%li совсем не %li";
+"Login to game center to se other players" = "Включите GameCenter для рейтинга";
+
+"think1" = "Семь раз отмерь,\nодин - ответь.";
+"think2" = "Эх, был не была!";
+"think3" = "Лошадью ходи!";
+
+"result_next_button_title" = "Еще!";
+"answer_how_many" = "Сколько было?";

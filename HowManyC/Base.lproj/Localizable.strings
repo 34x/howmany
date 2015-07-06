@@ -1,0 +1,20 @@
+/* 
+  Localized.strings
+  HowManyC
+
+  Created by Max on 06/07/15.
+  Copyright (c) 2015 Max. All rights reserved.
+*/
+"Your rank is %li";
+
+"%li is preciesely %li" = "%li is precisely %li";
+"%li is almost %li";
+"%li is too far from %li";
+"Login to game center to se other players";
+
+"think1" = "Think twice!";
+"think2" = "One shot, one kill";
+"think3" = "To be or not to be?";
+
+"result_next_button_title";
+"answer_how_many";
